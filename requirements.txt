@@ -1,0 +1,11 @@
+simpleitk=2.1.1
+pytorch=1.10.0
+evalutils=0.3.1
+numpy=1.21.2
+open3d=0.15.1
+opencv-python=4.5.5.62
+scipy=1.7.1
+openmesh=1.2.1
+
+
+The model for 2D anatomical curve segmentation ("twoD_best_model.pth") is saved on Google Drive Links: https://drive.google.com/file/d/1Tcp8COwJ8NoSpJlwatb2UXaAtWBMO
